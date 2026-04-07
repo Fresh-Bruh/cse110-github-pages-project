@@ -2,6 +2,6 @@
 
 
 # Noah's User Page
-https://fresh-bruh.github.io/cse110-github-pages-project/
+https://noahterrell.dev/
 
 My favorite programming language is c++.
